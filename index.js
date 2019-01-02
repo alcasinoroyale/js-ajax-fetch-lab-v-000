@@ -1,7 +1,7 @@
 function getToken() {
   //change to your token to run in browser, but set
   //back to '' before committing so all tests pass
-  return '';
+  return '7dfd572208d5c85187e5bdae56dc237cb0351da5';
 }
 
 function forkRepo() {
