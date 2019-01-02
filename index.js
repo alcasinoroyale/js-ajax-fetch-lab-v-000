@@ -4,6 +4,10 @@ function getToken() {
   return '7dfd572208d5c85187e5bdae56dc237cb0351da5';
 }
 
+const baseURL = 'https://api.github.com'
+const user = 'alcasinoroyale';
+
+
 function forkRepo() {
   const repo = 'learn-co-curriculum/js-ajax-fetch-lab';
   //use fetch to fork it!
